@@ -1,0 +1,13 @@
+# Gedownloade providers
+.terraform/
+
+# State files - Terraform's geheugen, nooit committen
+*.tfstate
+*.tfstate.*
+
+# Bevat de API-token secret (oefening 05)
+terraform.tfvars
+
+# Output van apply
+*.txt
+crash.log

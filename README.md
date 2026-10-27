@@ -72,3 +72,5 @@ De `.terraform.lock.hcl`-bestanden staan er wél in, zodat iedereen dezelfde pro
 | `401 Authentication failed` (oefening 05) | Token ID moet exact overeenkomen, hoofdlettergevoelig: `admin@pam!terraform-token` |
 | *Qemu Guest Agent is enabled but not working* | `qemu-guest-agent` is niet geïnstalleerd in DietPi; de VM werkt wel |
 | `ssh-keygen: command not found` | DietPi gebruikt Dropbear; `sudo apt-get install -y openssh-client` |
+
+Demo eindevaluatie - 27/10/2026
